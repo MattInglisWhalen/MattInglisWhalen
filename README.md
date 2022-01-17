@@ -5,6 +5,7 @@ Nowadays I'm looking to transfer careers to a fun industry where I can use the s
 I’m currently interested in learning tools for data analysis and/or mathematical finance.
 
 Languages: C++ / Mathematica / Python / SQL 
+
 Tools: Curve-fitting / Mathematical Modelling / Statistical 
 
 Still need to learn: Machine Learning / Neural Nets / PDEs
