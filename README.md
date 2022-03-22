@@ -8,7 +8,7 @@ Languages: C++ / Mathematica / Python / SQL
 
 Tools: Curve-fitting / Mathematical Modelling / Statistics
 
-Still need to learn: Machine Learning / Neural Nets / PDEs
+Still learning: Neural Nets / PDEs
 
 <!---
 This is a comment
