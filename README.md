@@ -4,12 +4,9 @@ Nowadays I'm looking to transfer careers to a fun industry where I can use the s
 
 I’m currently interested in learning about tools for data analysis and/or mathematical finance.
 
-Languages: C++ / Mathematica / Python / SQL 
-
-Tools: Curve-fitting / Mathematical Modelling / Statistics
-
-Still learning: Neural Nets / PDEs
-
+Languages: Python / SQL / C++ / Mathematica / LaTeX
+Math Techniques: Multivariable Calculus / Differential Equations / Statistics / Curve-Fitting / Mathematical Modelling
+Data Science Tools: scikit-learn / Keras / PyTorch / Pandas / Seaborn / Tableau
 <!---
 This is a comment
 --->
