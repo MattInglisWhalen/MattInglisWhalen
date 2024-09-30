@@ -1,15 +1,19 @@
-Hi! I’m @MattInglisWhalen, a recent PhD graduate from the Univerity of Toronto. For my PhD I worked in 
+Hi! I’m @MattInglisWhalen, a PhD graduate from the Univerity of Toronto where I worked in 
 theoretical particle physics studying Effective Field Theories for Quantum Chromodynamics.
 
-I have recently completed a data science certification at DataCamp in order to translate my skills into 
-the day-to-day language and tooling used in the data science industry, and I am eager to begin working 
-on interesting problems in the data science industry.
+I'm interested in building and deploying useful software tools for business-oriented solutions.
+I have a strong background in numerical optimization, statistics, and data
+modeling, and have many years of experience in harnessing these skills 
+to find key insights from data.
 
-Languages: Python / SQL / C++ / Mathematica / LaTeX
+I also have a few side projects in game development. My studio Welcomeblack Gaming 
 
-Math Techniques: Multivariable Calculus / Differential Equations / Statistics / Curve-Fitting / Mathematical Modelling
 
-Data Science Tools: scikit-learn / Keras / PyTorch / Pandas / Seaborn / Tableau
+Programming: Python / SQL / R / C++ / C# / C / Bash
+
+Data Science: scikit-learn / PyTorch / Pandas / Seaborn / Tableau
+
+Mathematics: Multivariable Calculus / Differential Equations / Statistics / Curve-Fitting / Mathematical Modelling
 <!---
 This is a comment
 --->
