@@ -6,7 +6,8 @@ I have a strong background in numerical optimization, statistics, and data
 modeling, and have many years of experience in harnessing these skills 
 to find key insights from data.
 
-I also have a few side projects in game development. My studio Welcomeblack Gaming 
+I also have a few side projects in game development. My studio Welcomeblack Gaming, where 
+I make small but action-packed VR games. 
 
 
 Programming: Python / SQL / R / C++ / C# / C / Bash
