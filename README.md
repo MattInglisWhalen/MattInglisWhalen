@@ -1,4 +1,5 @@
-Hi! I’m @MattInglisWhalen, a PhD graduate from the Univerity of Toronto where I worked in 
+Hi! I’m @MattInglisWhalen, a postdoctoral fellow in Medical Physics at Carleton University. I work on sub-keV electron transport through matter.
+My PhD was completed at the Univerity of Toronto where I worked in 
 theoretical particle physics studying Effective Field Theories for Quantum Chromodynamics.
 
 I'm interested in building and deploying useful software tools for business-oriented solutions.
